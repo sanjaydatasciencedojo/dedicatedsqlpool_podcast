@@ -13,3 +13,13 @@ One common method for backing up dedicated SQL pools is through the use of datab
 Another approach is to use log shipping. This method involves shipping transaction logs from the primary database to one or more secondary databases, which can then be used to perform a point-in-time recovery.
 
 It's also important to consider disaster recovery, which involves creating a backup of your dedicated SQL pool in a separate location. This allows you to quickly restore your data in the event of a catastrophic failure at your primary location.
+When it comes to disaster recovery, there are a few options to choose from, such as active-passive, active-active, and geo-replication. It's important to choose the right option that fits your organization's needs and budget.
+
+It's also important to test your backup and recovery plan regularly to ensure that it is working as expected and to identify and address any issues.
+
+That's it for this episode. In the next episode, we'll be discussing security and compliance for dedicated SQL pools.
+
+[Outro music and show title]
+
+Thank you for listening, and we'll catch you in the next episode.
+
